@@ -1,6 +1,8 @@
+streamlit
 ultralytics==8.2.103
-torch==1.8.0
-opencv-python==4.8.1.78
+torch==2.0.1
+Pillow>=9.0.0
+opencv-python
 numpy==1.26.4
 matplotlib==3.7.5
 seaborn==0.12.2
