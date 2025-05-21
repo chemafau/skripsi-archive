@@ -1,4 +1,4 @@
-ultralytics==8.2.103
+ultralytics
 torch
 opencv-python==4.11.0
 numpy==1.26.4
