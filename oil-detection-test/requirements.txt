@@ -3,7 +3,7 @@ ultralytics==8.2.103
 torch==2.5.1
 opencv-python==4.8.1.78
 numpy==1.26.4
-Pillow==7.1.0
+Pillow==9.0.0
 matplotlib==3.7.5
 PyYAML==6.0.2
 tqdm==4.67.1
