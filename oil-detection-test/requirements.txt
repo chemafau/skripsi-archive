@@ -1,5 +1,5 @@
 ultralytics==8.2.103
-torch==2.5.1
+torch==1.8.0
 opencv-python==4.8.1.78
 numpy==1.26.4
 matplotlib==3.7.5
