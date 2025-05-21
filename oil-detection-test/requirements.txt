@@ -1,11 +1,11 @@
 streamlit==1.33.0
-ultralytics==8.2.0
-torch==2.1.0
-opencv-python-headless==4.8.1.78
-numpy==1.24.4
-Pillow==10.2.0
+ultralytics>=8.2.104
+torch==2.5.1
+opencv-python==4.11.0
+numpy==1.26.4
+Pillow==11.1.0
 matplotlib==3.7.5
-PyYAML==6.0.1
+PyYAML==6.0.2
 tqdm==4.67.1
 seaborn==0.12.2
 pandas==2.2.3
