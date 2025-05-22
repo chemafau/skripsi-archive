@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-torch==2.1.2
+torch==2.5.1
 Pillow>=9.0.0
 opencv-python==4.8.1.78
 numpy==1.26.4
