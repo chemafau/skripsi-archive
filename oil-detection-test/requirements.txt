@@ -1,5 +1,5 @@
-streamlit==1.33.1
-ultralytics==8.2.103
+streamlit
+ultralytics
 torch==2.1.2
 Pillow>=9.0.0
 opencv-python==4.8.1.78
